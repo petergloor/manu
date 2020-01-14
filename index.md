@@ -37,9 +37,9 @@ Jetzt stellt sich noch die Frage, welcher der folgenden Verstärker am besten ge
 
 #### Fragen:
 1. Passen diese Verstärker überhaupt zu den gewünschten Lautsprechern? (z.B. Noobsound mit 2x100W)
-  1. AUNA 8 Ohm/20 W (2x?) : Speaker 5 Ohm/50 W
-  1. Noobsound 2x100 W, Speaker 50 W
-  1. Elegiant, 2x50 W, keine Angabe zu Ohm. 
+    1. AUNA 8 Ohm/20 W (2x?) : Speaker 5 Ohm/50 W
+    1. Noobsound 2x100 W, Speaker 50 W
+    1. Elegiant, 2x50 W, keine Angabe zu Ohm. 
 1. Wie ist der Zusammenhang zwischen Ohm und Watt?
 1. Was passiert, wenn am 12V-Eingang des Verstärkers mehr oder weniger Spannung vorhanden ist?
 1. Wirkt sich die Leistung des Verstärkers auf die Stromstärke aus? (max. wieviel?)
