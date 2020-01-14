@@ -1,4 +1,4 @@
-# Home page
+# Manus Van Projekt Seite: Verstärker
 
 #### Worum es geht
 
@@ -23,7 +23,7 @@ Hier stellt sich noch die Frage, ob zur Absicherung noch eine Glasrohr-Sicherung
 
 #### Gewünschte Boxen und mögliche Verstärker
 
-Die gewünschent Lautsprecher stehen fest, da sie sich am besten integrieren lassen.
+Die gewünschten Lautsprecher stehen bereits fest, da sie sich am besten integrieren lassen.
 
 [JL Audio C1-525X, 2x50W 13cm 2-Wege-Koaxial-Lautsprecher, 4 Ohm](https://www.ars24.com/Lautsprecher/JL-Audio/17558/JL-Audio-C1-525X)
 
